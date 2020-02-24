@@ -10,6 +10,7 @@
 *Write a high level design plan for your program.
 You can use screenshots of your work on an actual white board 
 or you can use pseudocode.*
+
 *FIXME*
 
 2. **CRC Card**
@@ -18,7 +19,7 @@ I have given you some example rows. Add as many as you need.*
 
 
 | **Name**                       |          **Byte**           | 
-|:------------------------------ |:-------------------------- :|
+|:-------------------------------|:-------------------------- :|
 | **Class Methods**              |     **Collaborations**      | 
 | FIXME                          |            FIXME            | 
 | FIXME                          |            FIXME            | 
