@@ -17,7 +17,6 @@ or you can use pseudocode.*
 *Complete a CRC Card for the Byte class. Be sure to keep this up to date.
 I have given you some example rows. Add as many as you need.*
 
-
 | **Name**                       | **Byte**  
 | :----------------------------- | :-------------------------- 
 | **Class Methods**              | **Collaborations** 
@@ -27,7 +26,6 @@ I have given you some example rows. Add as many as you need.*
 | **Class Data**                 |  **Collaborations**  
 | FIXME                          |  FIXME 
 | FIXME                          |  FIXME          
-
 
 3. **PARITY PROBLEMS**
 *Can you identify any possible problems with the parity method 
@@ -39,6 +37,7 @@ are used when data integrity matters.)*
 
 4. **PARITY SOLUTION**
 *Can you think of an idea that would solve the problem(s) you identified?*
+
 *FIXME*
 
 5. **PROCESS SUMMARY**
@@ -47,12 +46,14 @@ including how much your initial design plan evolved,
 the final results you achieved, and the amount of time you spent 
 as a programmer or programmers in accomplishing these results. 
 This should be one or at most two paragraphs.*
+
 *FIXME*
 
 6. **IMPLEMENTATIONS**
 *Please briefly describe what was accomplished including 
 the largest challenges overcome and any innovations that were not 
 specifically required by the assignment.*
+
 *FIXME*
 
 7. **BIG O ANALYSIS**
@@ -66,6 +67,7 @@ Today we typically work with 64-bit machines,
 but it wasn’t that long ago that 32-bit machines were predominant, 
 so your Win10 operating system actually has a mix of 32-bit 
 and 64-bit code.)
+
 *FIXME*
 
 8. **TESTING**
@@ -82,13 +84,15 @@ and deficiencies with a very brief explanation.*
 
 10. **LEARNING AND REACTION**
 * A paragraph or so of your own comments 
-on what you learned and your reactions to this lab. *
+on what you learned and your reactions to this lab.*
+
 *FIXME*
 
 11. **INTEGRITY STATEMENT**
 *Please briefly describe ALL help you received and 
 all help you gave to others in completing this lab.
 Also list all other references below.*
+
 *FIXME*
 
 ## References:
