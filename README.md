@@ -16,20 +16,17 @@ or you can use pseudocode.*
 *Complete a CRC Card for the Byte class. Be sure to keep this up to date.
 I have given you some example rows. Add as many as you need.*
 
-|--------------------------------|:---------------------------:|
+
 | **Name**                       |          **Byte**           | 
-|--------------------------------|:---------------------------:|
+|:------------------------------ |:-------------------------- :|
 | **Class Methods**              |     **Collaborations**      | 
-|--------------------------------|:---------------------------:|
 | FIXME                          |            FIXME            | 
 | FIXME                          |            FIXME            | 
 | FIXME                          |            FIXME            | 
-|--------------------------------|:---------------------------:|
 | **Class Data**                 |     **Collaborations**      | 
-|--------------------------------|:---------------------------:|
 | FIXME                          |            FIXME            | 
 | FIXME                          |            FIXME            | 
-|--------------------------------|:---------------------------:|
+
 
 3. **PARITY PROBLEMS**
 *Can you identify any possible problems with the parity method 
