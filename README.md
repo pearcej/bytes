@@ -19,7 +19,7 @@ I have given you some example rows. Add as many as you need.*
 
 
 | **Name**                       |          **Byte**           | 
-|:-------------------------------|:-------------------------- :|
+| :----------------------------- | :-------------------------: |
 | **Class Methods**              |     **Collaborations**      | 
 | FIXME                          |            FIXME            | 
 | FIXME                          |            FIXME            | 
@@ -34,6 +34,7 @@ I have given you some example rows. Add as many as you need.*
 of error detecting? If so, what are they, explain. 
 (There ARE problems with it, so typically more robust methods 
 are used when data integrity matters.)*
+
 *FIXME*
 
 4. **PARITY SOLUTION**
