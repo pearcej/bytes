@@ -18,15 +18,15 @@ or you can use pseudocode.*
 I have given you some example rows. Add as many as you need.*
 
 
-| **Name**                       |          **Byte**           | 
-| :----------------------------- | :-------------------------: |
-| **Class Methods**              |     **Collaborations**      | 
-| FIXME                          |            FIXME            | 
-| FIXME                          |            FIXME            | 
-| FIXME                          |            FIXME            | 
-| **Class Data**                 |     **Collaborations**      | 
-| FIXME                          |            FIXME            | 
-| FIXME                          |            FIXME            | 
+| **Name**                       | **Byte**  
+| :----------------------------- | :-------------------------- 
+| **Class Methods**              | **Collaborations** 
+| FIXME                          |  FIXME  | 
+| FIXME                          |  FIXME 
+| FIXME                          |  FIXME 
+| **Class Data**                 |  **Collaborations**  
+| FIXME                          |  FIXME 
+| FIXME                          |  FIXME          
 
 
 3. **PARITY PROBLEMS**
