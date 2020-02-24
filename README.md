@@ -74,16 +74,18 @@ and 64-bit code.)
 *Please briefly describe your testing process. 
 Here you should be careful to select representative input cases, 
 including both representative typical cases as well as extreme cases.*
+
 *FIXME*
 
 9. **ERRORS**
-* List in bulleted form of all known errors 
+*List in bulleted form of all known errors 
 and deficiencies with a very brief explanation.*
+
 - *FIXME*
 - *FIXME*
 
 10. **LEARNING AND REACTION**
-* A paragraph or so of your own comments 
+*A paragraph or so of your own comments 
 on what you learned and your reactions to this lab.*
 
 *FIXME*
