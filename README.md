@@ -28,7 +28,9 @@ I have given you some example rows. Add as many as you need.*
 | FIXME                          |  FIXME
 | **Class Data**                 |  **Collaborations**  
 | FIXME                          |  FIXME
-| FIXME                          |  FIXME          
+| FIXME                          |  FIXME      
+
+*OR Complete the CRC Card in the provided Google Doc and paste link to completed Google Doc here.*    
 
 # Implementation and Customization Prompts
 
