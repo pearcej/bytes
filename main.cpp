@@ -1,6 +1,6 @@
-/** L06: Bytes
-FIXME: Add names here // CHANGE THIS
-FIXME: username(s):  // CHANGE THIS
+/** L2: Bytes
+FIXME: Add name here // CHANGE THIS
+FIXME: username:  // CHANGE THIS
 Purpose: To learning about bits, bytes, and binary
 and to reinforce work with arrays and classes in C++.
 
