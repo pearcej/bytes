@@ -64,12 +64,12 @@ specifically required by the assignment.*
 7. **BIG O ANALYSIS**
 *Please analyze the Big O of all of the methods of the Byte class,
 including constructors. Note that even though you know that the data
-or input size is 8, you still call this �n� and base your answers on n.
+or input size is 8, you still call this "n" and base your answers on n.
 This means you imagine byte size could change.
 (This is not so far fetched. Register sizes have changed a lot.
 The first desktop computers were 8-bit machines.
 Today we typically work with 64-bit machines,
-but it wasn�t that long ago that 32-bit machines were predominant,
+but it wasn't that long ago that 32-bit machines were predominant,
 so your Win10 operating system actually has a mix of 32-bit
 and 64-bit code.)
 
