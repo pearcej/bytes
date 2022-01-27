@@ -1,4 +1,4 @@
-# [L06: Bytes](https://docs.google.com/document/d/1BvbnKcN1xBYoNIQrv0XQOFmafxjr9o1LsGloj9gAp-Q/edit#heading=h.c1x99npetnfu)
+# L2: Bytes
 
 ## Lab designed to learn about bits, bytes, and binary
 ## and to reinforce working with C++ classes and arrays
